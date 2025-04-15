@@ -212,7 +212,7 @@ const projects = {
         "ExpressJS",
         "MongoDB",
       ],
-      github: "https://github.com/vidhiahir/Hotel_booking_app",
+      github: "https://github.com/vidhiahir/BeatStream_Music-Streaming-WebApp",
       live: "", // Optional
     },
     {
@@ -227,7 +227,7 @@ const projects = {
         "Node.js",
         "Socket.io",
       ],
-      github: "https://github.com/vidhiahir/DreamStay_Hotel-booking-webapp",
+      github: "https://github.com/vidhiahir/Hotel_booking_app",
       live: "", // Optional
     },
     {
